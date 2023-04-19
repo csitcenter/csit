@@ -1191,8 +1191,8 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 /* --------------------------Navbar or Menu bar opening CSS Part ----------------------------------------------------- */
 .topnav {
   overflow: hidden;
-  background-color: #7d1244;
-  padding-top: 20px;
+  background-color: #000000;
+  padding-top: 17px;
 }
 
 .topnav a {
@@ -1211,7 +1211,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #000000;
   color: white;
 }
 
