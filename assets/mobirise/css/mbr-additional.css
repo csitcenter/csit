@@ -1,9 +1,7 @@
 .btn {
   border-width: 2px;
 }
-body {
-  font-family: Jost;
-}
+
 .display-1 {
   font-family: 'Jost', sans-serif;
   font-size: 4rem;
@@ -1243,3 +1241,16 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   }
 }
 /* ---------------------------Navbar or Menu bar Closing CSS Part------------------------------------------- */
+#scrolltop {
+	position: fixed;
+    bottom: 20px;
+    right: 15px;
+    padding: 30px;
+    background-color: rgb(1, 255, 128);
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////NgkbwAAAAKHRSTlMAAQIDDRITFBcdHh8gIyQlJjdDREx1d4CCg4WXmpu5urzZ6e3v+fv9pStiuwAAAI9JREFUOE/dylkWgkAMRNFqUXEW53kC1Ox/hWKOtG3SZgHkq3LuAxp4q7xv+oboPrDdLNiNYktkFt7/FIFHix+viqHwHYkThffr7Bkrvp4gixT7wIHsURcj6ZeE/6kopMtirTwsUuCmHZjUxRxIS17n0H1xctXultqB8bs4Ot6dQjsXB/fZ7WVLOdBbODTmXgKJJx7c/fm3AAAAAElFTkSuQmCC);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px;
+    display: block;
+    z-index: 9;
+}
