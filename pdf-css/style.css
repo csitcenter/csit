@@ -167,6 +167,9 @@
     max-width: 1800px;
     margin: 0 auto;
 }
+.rect-container:hover{
+    color: crimson;
+}
 
 .rect {
     background-color: #f2f2f2;
@@ -178,17 +181,22 @@
     text-align: center;
     padding-top: 8px;
 }
+.rect:hover{
+    color: #05ff44; 
+
+}
 
 .rect h3 {
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 10px;
+    text-decoration: #05ff44;
 }
 
 
 @media (max-width:720px) {
     .rect h3 {
-        font-size: 20px;
-        line-height: 22px;
+        font-size: 16px;
+        line-height: 20px;
 
     }
 
@@ -200,9 +208,7 @@
     }
 
     .rect {
-        width: 95%;
-
-
+        width: 89%;
     }
 
 }
