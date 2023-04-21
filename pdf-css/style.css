@@ -139,3 +139,55 @@
 }
 
   /* ---------------------------Button Closing CSS Part------------------------------------------- */
+  /* --------------------------- small rectangle css opening tag ------------------------------------------- */
+.rect-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1800px;
+    margin: 0 auto;
+  }
+  
+  .rect {
+    background-color: #f2f2f2;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    padding: 0px;
+    width: calc(50% - 20px);
+    text-align: center;
+  }
+  
+  .rect h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .rect p {
+    font-size: 16px;
+    line-height: 1.7;
+  }
+/* --------------------------- small rectangle css closing tag ------------------------------------------- */
+
+
+  /* next below */
+  .rectangular-box {
+    width: 100%;
+    max-width:3000px;
+    height: 200px;
+    background-color: #fcfcfc;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    box-shadow: 10px 10px 10px 10px #000000;
+    
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .rectangular-box {
+      height: 100px;
+    }
+  }
