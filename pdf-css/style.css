@@ -139,19 +139,19 @@
 }
 
   /* ---------------------------Button Closing CSS Part------------------------------------------- */
-  /* --------------------------- small rectangle css opening tag ------------------------------------------- */
-.rect-container {
+  /* ---------------------------Button Closing CSS Part------------------------------------------- */
+  .rect-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 15px;
     max-width: 1800px;
     margin: 0 auto;
   }
   
   .rect {
     background-color: #f2f2f2;
-    border: 3px solid #000000;
+    border: 1px solid #000000;
     border-radius: 5px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
     padding: 0px;
@@ -166,10 +166,9 @@
   
   .rect p {
     font-size: 16px;
-    line-height: 1.7;
+    line-height: 2;
   }
-/* --------------------------- small rectangle css closing tag ------------------------------------------- */
-
+  
 
   /* next below */
   .rectangular-box {
@@ -182,7 +181,7 @@
     justify-content: center;
     align-items: center;
     padding: 0px;
-    box-shadow: 10px 10px 10px 10px #000000;
+    box-shadow: 5px 5px 5px 5px #000000;
     
   }
   
@@ -191,3 +190,4 @@
       height: 100px;
     }
   }
+  
