@@ -39,7 +39,7 @@
 .topnav .icon {
     display: none;
 }
-
+ 
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {
         display: none;
@@ -92,8 +92,8 @@
 }
 
 .semester-name {
-    padding-top: 2px;
-    padding-bottom: 2px
+    padding-top: 0px;
+    padding-bottom: 0px
 }
 
 @media (min-width:768px) and (max-width:991px) {
@@ -187,7 +187,7 @@
 }
 
 .rect h3 {
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 10px;
     text-decoration: #05ff44;
 }
@@ -210,7 +210,10 @@
     .rect {
         width: 89%;
     }
+    .rect {
+    max-width: 1800px;
 
+    }
 }
 
 /* next below */
