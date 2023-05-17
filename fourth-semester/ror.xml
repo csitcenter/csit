@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://csitcenter.github.io/csit/fourth-semester/</title>
+  <link>https://csitcenter.github.io/csit/fourth-semester/</link>
+
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/</link>
+     <title>Csit Center : CSIT Center is an online and mobile app
+        that provides B.Sc. CSIT students with all of reference csit materials, csit including notes,
+        csit past question papers, csit syllabus, and books</title>
+     <description>Csit Center : CSIT Center is an online and mobile app
+        that provides B.Sc. CSIT students with all of reference csit materials, csit including notes,
+        csit past question papers, csit syllabus, and books</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/theory-of-computation/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/computer%20networks/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/operating-systems/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/database-management-system/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/artificial-intelligence/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/kec-questions-bank/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/tu-questions-model/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/fourth-semester/programming/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
