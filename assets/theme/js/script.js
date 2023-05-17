@@ -14,3 +14,13 @@ window.onscroll = function() {
         document.documentElement.scrollTop = 0;
     };
 };
+
+
+{<script async src="https://www.googletagmanager.com/gtag/js?id=G-TN9TC8YPC6"></script>
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TN9TC8YPC6');}
+
