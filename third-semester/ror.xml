@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://csitcenter.github.io/csit/third-semester/</title>
+  <link>https://csitcenter.github.io/csit/third-semester/</link>
+
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/</link>
+     <title>Csit Center : TU Questions and Model Question is that provides B.Sc. CSIT students with all of reference csit materials, csit including notes, csit past question papers, csit syllabus, and books</title>
+     <description>Csit Center : TU Questions and Model Question is that provides B.Sc. CSIT students with all of reference csit materials, csit including notes, csit past question papers, csit syllabus, and books</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/data-structure-and-algorithm/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/numerical-method/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/computer-architecture/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/computer-graphics/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/statistics-II/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/tu-questions-model/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csitcenter.github.io/csit/third-semester/programming/</link>
+     <title>Document</title>
+     <description>Document</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
