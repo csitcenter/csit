@@ -104,29 +104,34 @@
         }
 
         .rectangle {
-           border-color: rgb(253, 252, 252);
            border-width: 4px;
            border-style: solid;
            border-radius: 7px;
            text-align: center;
            font-size: 30px;
-           width: 300px;
-           height: 80px;
+           width: 250px;
+           height: 70px;
            margin: auto;
            padding: 5PX;
            cursor: pointer;
-           color:white;
-           
+           color:white;           
            box-sizing: border-box;
-        
-        
-           /* text-decoration: none; */
-        
+        }
+        .rectangle:hover {
+            border-color: #fd0303;
+            color: #ff0000;
+            transition: .2s;
         }
         a{
             text-decoration: none;
             color: white;
         }
+        a:hover{
+            text-decoration: none;
+            color: #fd0303;
+
+        }
+
     </style>
 
 
@@ -167,16 +172,11 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
-                            <li class="nav-item"><a class="nav-link link text-white display-5" href="#">Home</a></li>
-                            <li class="nav-item"><a class="nav-link link text-white display-5" href="#">
-                                    About us</a></li>
-                            <li class="nav-item"><a class="nav-link link text-white display-5" href="#">Contact us</a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link link text-white display-5" href="#">Privacy
-                                    Policy</a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link link text-white display-5" href="#">
-                                    Services</a></li>
+                            <li class="nav-item"><a class="nav-link link text-white" href="#">Home</a></li>
+                            <li class="nav-item"><a class="nav-link link text-white" href="#">About us</a></li>
+                            <li class="nav-item"><a class="nav-link link text-white" href="#">Contact us</a></li>
+                            <li class="nav-item"><a class="nav-link link text-white" href="#">Privacy Policy</a></li>
+                            <li class="nav-item"><a class="nav-link link text-white" href="#">Services</a></li>
                         </ul>
                         <div class="icons-menu">
                             <a class="iconfont-wrapper" href="#" target="_blank">
