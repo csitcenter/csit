@@ -1,5 +1,1 @@
-# robots.txt
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
 Sitemap: https://csitcenter.github.io/csit/sitemap.xml
